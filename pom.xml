@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
     <groupId>com.ruoyi</groupId>
-    <artifactId>ruoyi</artifactId>
+    <artifactId>qiniuThreesome</artifactId>
     <version>3.8.6</version>
 
     <name>ruoyi</name>
